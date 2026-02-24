@@ -1,0 +1,25 @@
+Your application was created!
+          Available commands in your project:
+
+          Start Strapi in watch mode. (Changes in Strapi project files will trigger a server restart)
+          npm run develop
+
+          Start Strapi without watch mode.
+          npm run start
+ 
+          Build Strapi admin panel.
+          npm run build
+
+          Deploy Strapi project.
+          npm run deploy
+
+          Seed your database with sample data.
+          npm run seed:example
+
+          Display all available commands.
+          npm run strapi
+
+          To get started run
+
+          cd C:\Users\MatiasEzequiel\Downloads\Proyectos\fullstack-strapi-shadnc\01-PruebaGemini\backend
+          npm run develop
